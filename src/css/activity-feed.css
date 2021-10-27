@@ -1,0 +1,16 @@
+.activity-feed-container {
+
+}
+
+.feed {
+  display: flex;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 10px 0;
+}
+
+.feed > div {
+  padding: 10px 4px;
+  height: 36px;
+}
